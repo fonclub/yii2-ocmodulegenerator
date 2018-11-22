@@ -3,8 +3,9 @@ Yii2 Opencart Module Generator
 
 [![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%205.4-2196f3.svg)](https://php.net/)
 [![Latest Stable Version](https://poser.pugx.org/fonclub/yii2-ocmodulegenerator/v/stable)](https://packagist.org/packages/fonclub/yii2-ocmodulegenerator)
-[![Total Downloads](https://poser.pugx.org/fonclub/yii2-ocmodulegenerator/downloads)](https://packagist.org/packages/fonclub/yii2-ocmodulegenerator)
-[![License](https://poser.pugx.org/fonclub/yii2-ocmodulegenerator/license)](https://packagist.org/fonclub/yii2-ocmodulegenerator)
+[![Total Downloads](https://poser.pugx.org/fonclub/yii2-ocmodulegenerator/downloads)](https://packagist.org/packages/fonclub/yii2-ocmodulegenerator) 
+[![Latest Unstable Version](https://poser.pugx.org/fonclub/yii2-ocmodulegenerator/v/unstable)](https://packagist.org/packages/fonclub/yii2-ocmodulegenerator) 
+[![License](https://poser.pugx.org/fonclub/yii2-ocmodulegenerator/license)](https://packagist.org/packages/fonclub/yii2-ocmodulegenerator)
 
 
 Features
