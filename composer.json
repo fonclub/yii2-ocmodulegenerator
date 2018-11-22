@@ -19,7 +19,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "fonclub\\yii2-ocmodulegenerator\\": "src"
+            "fonclub\\ocmodulegenerator\\": "src"
         }
     },
     "require": {
