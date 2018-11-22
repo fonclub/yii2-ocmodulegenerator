@@ -1,0 +1,28 @@
+{
+    "name":              "fonclub/yii2-ocmodulegenerator",
+    "description":       "Yii2 Opencart Module Generator",
+    "type":              "yii2-extension",
+    "license":           "MIT",
+    "homepage":          "https://github.com/fonclub/yii2-ocmodulegenerator",
+    "keywords":          [
+        "yii2",
+        "opencart",
+        "module generator",
+        "skeleton"
+    ],
+    "authors": [
+        {
+            "name":     "Aleksandr Maliev",
+            "email":    "dev@fonclub-blog.ru",
+            "homepage": "https://fonclub-blog.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "fonclub\\yii2-ocmodulegenerator\\": "src"
+        }
+    },
+    "require": {
+        "php": "^5.4"
+    }
+}
